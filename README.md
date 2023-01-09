@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm Pedro Façanha</h1>
 <h3 align="center">A Multimedia Engineering undergraduate, interested on web and mobile development.</h3>
 
-- 🌱 I’m currently learning **NodeJS, Express, TypeORM, Kotlin, Android Development**
+- 🌱 I’m currently learning **PrismaJS, Azure Devops and Apollo GraphQL**
 
 - 📫 How to reach me **pedrofacpeix@gmail.com**
 
